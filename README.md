@@ -33,8 +33,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi200446&" alt="abhi200446" /></p>
 ## Badges
 
-### Hacktoberfest Badge
-![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2024-blueviolet?style=for-the-badge)
+
 
 ### Holopin Badge
 [![An image of @abhi200446's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhi200446)](https://holopin.io/@abhi200446)
